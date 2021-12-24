@@ -1,6 +1,6 @@
 {
     "name": "platform-yml-inferrer",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "description": "A simple .bhojpur-yml cofiguration file inference engine",
     "main": "./lib/config-inferrer.js",
     "types": "./lib/config-inferrer.d.ts",
