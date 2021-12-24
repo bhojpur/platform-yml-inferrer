@@ -1,2 +1,2 @@
-# platform-yml-inferrer
-The Bhojpur.NET Platform .bhojpur.yml file inference engine
+# Bhojpur.NET Platform - YAML Configuration Inferrer
+The Bhojpur.NET Platform .bhojpur.yml configuration file inference engine
